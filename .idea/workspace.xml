@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d84720b-dc7e-4ac3-a983-7b6d1c72bcd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/3/assignment3/IntSet.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/4/assignement4/ex1.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/4/cours.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/4/ex4.1.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3/assignment3/corr_Bastien.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4/assignement4/A4.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4/assignement4/Ex4.3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5/assignement5/A5.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5/cours.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3/assignment3/IntSet.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/assignment3/IntSet.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/4/ex4.1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/4/Ex4.1.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,24 +52,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EX2.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zb/Main/VALAIS/ANNO2/SEM4/FuncProg/FunkProg",
-    "onboarding.tips.debug.path": "/home/zb/Main/Other/HelloWorld/src/Main.scala",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EX2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Scala REPL.Scala REPL.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zb/Main/VALAIS/ANNO2/SEM4/FuncProg/FunkProg/src/3/assignment3&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/zb/Main/Other/HelloWorld/src/Main.scala&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/3/assignment3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FunctionalProg" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="envFilePaths">
+        <list />
+      </option>
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="myConsoleArgs" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
