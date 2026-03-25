@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d84720b-dc7e-4ac3-a983-7b6d1c72bcd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/3/assignment3/corr_Bastien.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/4/assignement4/A4.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/4/assignement4/Ex4.3.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/5/assignement5/A5.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/5/cours.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exas/blancs/CC_2025.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3/assignment3/IntSet.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/assignment3/IntSet.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4/ex4.1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/4/Ex4.1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/5/assignement5/A5.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/5/assignement5/A5.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +70,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/3/assignment3" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exas/blancs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
@@ -106,7 +104,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
