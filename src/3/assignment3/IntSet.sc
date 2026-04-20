@@ -1,3 +1,5 @@
+import javax.imageio.plugins.tiff.ExifInteroperabilityTagSet
+
 abstract class IntSet() {
   infix def add(x:Int):IntSet
   infix def contains(x:Int):Boolean
@@ -5,6 +7,7 @@ abstract class IntSet() {
   infix def foreach(f:Int=>Unit):Unit
 
   infix def union(other:IntSet):IntSet
+  infix def intersect(other:IntSet):IntSet
 }
 
 class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet() {
@@ -29,8 +32,18 @@ class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet() {
   }
 
   def union(other: IntSet): IntSet = {
-    foreach(other)
+    other.union(left).union(right).add(elem)
   }
+  def intersect(other: IntSet): IntSet = {
+//    if (other contains elem)
+//      res.add(elem)
+//      //other.intersect(left, res.add(elem)).intersect(right, res.add(elem))
+//    other.intersect(left, res).intersect(right, res)
+//    res
+    if(other contains elem)
+      other.intersect(right).intersect(left)
+    else
+      
 }
 
 object Empty extends IntSet() {
@@ -41,7 +54,8 @@ object Empty extends IntSet() {
   override def toString: String = "-"
 
   def foreach(f: Int => Unit): Unit = {}
-  def union(other: IntSet): IntSet = Empty
+  def union(other: IntSet): IntSet = other
+  def intersect(other: IntSet): IntSet = Empty
 }
 
 
@@ -69,7 +83,9 @@ s3.foreach(println)
 // goes for the right or bigger numbers first.
 
 // EX2
-def s4 = Empty.add(5)
+def s4 = Empty.add(5).add(3)
 def s5 = Empty.add(6).add(7)
+def s6 = Empty.add(3).add(9).add(5).add(4)
 
-s4.union(s5)
+s4 union s5
+s4 intersect s6
