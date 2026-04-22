@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d84720b-dc7e-4ac3-a983-7b6d1c72bcd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/6/cours.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/REV/rev.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/7/cours.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3/assignment3/IntSet.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/3/assignment3/IntSet.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/5/assignement5/A5.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/5/assignement5/A5.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zb/Main/VALAIS/ANNO2/SEM4/FuncProg/FunkProg/src/3/assignment3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zb/Main/VALAIS/ANNO2/SEM4/BRDB/BRDB&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/zb/Main/Other/HelloWorld/src/Main.scala&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
