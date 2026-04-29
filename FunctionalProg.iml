@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-sdk-3.3.7" level="application" />
+    <orderEntry type="library" name="jsoup-1.22.2" level="project" />
   </component>
 </module>
